@@ -20,23 +20,36 @@ A fun, bilingual web app that adds exciting challenges to your beer pong games! 
 
 ### Installation
 
-1. Clone the repository:
+1. Create a new directory and set up the files:
 ```bash
-git clone https://github.com/yourusername/beer-pong-challenge.git
+mkdir beer-pong-challenge
 cd beer-pong-challenge
 ```
 
-2. Install dependencies:
+2. Create the folder structure:
+```bash
+mkdir -p public src
+```
+
+3. Copy all 6 files into their respective locations:
+   - `public/index.html`
+   - `public/tasks.json`
+   - `src/index.js`
+   - `src/App.js`
+   - `package.json` (in root)
+   - `README.md` (in root)
+
+4. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Start the development server:
+5. Start the development server:
 ```bash
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+6. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 📦 Deployment to Vercel
 
@@ -63,14 +76,25 @@ Follow the prompts and your site will be live in seconds!
 ```
 beer-pong-challenge/
 ├── public/
-│   ├── index.html
+│   ├── index.html          # Main HTML file
 │   └── tasks.json          # All beer pong tasks
 ├── src/
 │   ├── App.js              # Main React component
-│   └── index.js
-├── package.json
-└── README.md
+│   └── index.js            # React entry point
+├── package.json            # Dependencies
+└── README.md               # This file
 ```
+
+### Complete File Setup
+
+You need these 6 files in your project:
+
+1. **public/index.html** - The HTML template
+2. **public/tasks.json** - The tasks data
+3. **src/index.js** - React entry point
+4. **src/App.js** - Main component
+5. **package.json** - Dependencies
+6. **README.md** - Documentation
 
 ## 🎮 How to Use
 
@@ -137,7 +161,7 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 
-This project is open source and available under the GPLv3 License.
+This project is open source and available under the MIT License.
 
 ## 🎉 Have Fun!
 
