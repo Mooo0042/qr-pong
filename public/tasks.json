@@ -1,4 +1,5 @@
 [
+    /* Initial Tasks */
   {
     "name": "Swap Hands",
     "description": "Switch your throwing hand for the next 3 rounds",
@@ -88,5 +89,68 @@
     "description": "You cannot speak for the next 2 rounds",
     "name_de": "Schweigen",
     "description_de": "Du darfst die nächsten 2 Runden nicht sprechen"
+  },
+
+  /* --- Aditions 07.12.25 --- */
+
+  {
+    "name": "Slow Motion",
+    "description": "Perform your entire next throw in exaggerated slow motion",
+    "name_de": "Zeitlupe",
+    "description_de": "Führe deinen gesamten nächsten Wurf in übertriebener Zeitlupe aus"
+  },
+  {
+    "name": "Robot Mode",
+    "description": "Move and talk like a robot for the next round",
+    "name_de": "Roboter-Modus",
+    "description_de": "Bewege dich und sprich wie ein Roboter für die nächste Runde"
+  },
+  {
+    "name": "Tiny Steps",
+    "description": "You may only take tiny steps until your next shot",
+    "name_de": "Minischritte",
+    "description_de": "Du darfst bis zu deinem nächsten Wurf nur Minis­chritte machen"
+  },
+  {
+    "name": "King/Queen Wave",
+    "description": "Wave royally before taking every shot this round",
+    "name_de": "Königliche Welle",
+    "description_de": "Mache eine königliche Welle, bevor du jeden Wurf dieser Runde machst"
+  },
+  {
+    "name": "Whisper Only",
+    "description": "You can only whisper for the next round",
+    "name_de": "Nur Flüstern",
+    "description_de": "Du darfst die nächste Runde nur flüstern"
+  },
+  {
+    "name": "Freeze Pose",
+    "description": "Strike a funny pose for 5 seconds before shooting",
+    "name_de": "Einfrierpose",
+    "description_de": "Nimm 5 Sekunden lang eine lustige Pose ein, bevor du wirfst"
+  },
+  {
+    "name": "Mirror Shot",
+    "description": "Pretend you're looking into a mirror and mimic yourself before shooting",
+    "name_de": "Spiegelwurf",
+    "description_de": "Tu so, als würdest du in einen Spiegel schauen und dich selbst nachahmen, bevor du wirfst"
+  },
+  {
+    "name": "Announcer Mode",
+    "description": "Commentate your own shot dramatically",
+    "name_de": "Kommentator-Modus",
+    "description_de": "Kommentiere deinen eigenen Wurf dramatisch"
+  },
+  {
+    "name": "Stork Stand",
+    "description": "You must balance on one leg while making your next shot",
+    "name_de": "Storch-Stand",
+    "description_de": "Du musst auf einem Bein stehen, während du deinen nächsten Wurf machst"
+  },
+  {
+    "name": "High Five Everyone",
+    "description": "Give every player a high-five before your next turn",
+    "name_de": "High-Five-Runde",
+    "description_de": "Gib jedem Spieler ein High-Five vor deinem nächsten Zug"
   }
 ]
