@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Swap Hands",
+    "description": "Switch your throwing hand for the next 3 rounds",
+    "name_de": "Hände Tauschen",
+    "description_de": "Wechsle deine Wurfhand für die nächsten 3 Runden"
+  },
+  {
+    "name": "Blindfolded Shot",
+    "description": "Close your eyes and take your next shot",
+    "name_de": "Blindwurf",
+    "description_de": "Schließe deine Augen und mache deinen nächsten Wurf"
+  },
+  {
+    "name": "Dance Move",
+    "description": "Do a dance move before every shot for 2 rounds",
+    "name_de": "Tanzbewegung",
+    "description_de": "Mache vor jedem Wurf eine Tanzbewegung für 2 Runden"
+  },
+  {
+    "name": "Behind the Back",
+    "description": "Your next shot must be thrown behind your back",
+    "name_de": "Hinter dem Rücken",
+    "description_de": "Dein nächster Wurf muss hinter deinem Rücken geworfen werden"
+  },
+  {
+    "name": "Compliment Master",
+    "description": "Give each opponent a compliment before shooting",
+    "name_de": "Komplimente-Meister",
+    "description_de": "Mache jedem Gegner ein Kompliment vor dem Wurf"
+  },
+  {
+    "name": "Spin Around",
+    "description": "Spin 3 times before your next shot",
+    "name_de": "Dreh dich",
+    "description_de": "Drehe dich 3 mal vor deinem nächsten Wurf"
+  },
+  {
+    "name": "Story Time",
+    "description": "Tell a short story while your team shoots this round",
+    "name_de": "Geschichtenzeit",
+    "description_de": "Erzähle eine kurze Geschichte während dein Team diese Runde wirft"
+  },
+  {
+    "name": "Underhand Only",
+    "description": "All your shots must be underhand for 2 rounds",
+    "name_de": "Nur Unterhand",
+    "description_de": "Alle deine Würfe müssen 2 Runden lang von unten erfolgen"
+  },
+  {
+    "name": "Cheerleader",
+    "description": "Cheer loudly for your opponent's next shot",
+    "name_de": "Cheerleader",
+    "description_de": "Feuer deinen Gegner lautstark bei seinem nächsten Wurf an"
+  },
+  {
+    "name": "Granny Style",
+    "description": "Shoot like a granny for your next turn",
+    "name_de": "Oma-Stil",
+    "description_de": "Wirf wie eine Oma bei deinem nächsten Zug"
+  },
+  {
+    "name": "One Bounce Only",
+    "description": "Your next 2 shots must bounce once before landing",
+    "name_de": "Einmal Aufprall",
+    "description_de": "Deine nächsten 2 Würfe müssen einmal aufprallen bevor sie landen"
+  },
+  {
+    "name": "Accent Challenge",
+    "description": "Speak in a foreign accent for the next 2 rounds",
+    "name_de": "Akzent-Herausforderung",
+    "description_de": "Sprich mit einem fremden Akzent für die nächsten 2 Runden"
+  },
+  {
+    "name": "Jump Shot",
+    "description": "Jump while throwing your next shot",
+    "name_de": "Sprungwurf",
+    "description_de": "Springe während du deinen nächsten Wurf machst"
+  },
+  {
+    "name": "Rhyme Time",
+    "description": "Everything you say must rhyme for 2 rounds",
+    "name_de": "Reimzeit",
+    "description_de": "Alles was du sagst muss sich 2 Runden lang reimen"
+  },
+  {
+    "name": "No Talking",
+    "description": "You cannot speak for the next 2 rounds",
+    "name_de": "Schweigen",
+    "description_de": "Du darfst die nächsten 2 Runden nicht sprechen"
+  }
+]
