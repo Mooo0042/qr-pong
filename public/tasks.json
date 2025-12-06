@@ -1,5 +1,4 @@
 [
-    /* Initial Tasks */
   {
     "name": "Swap Hands",
     "description": "Switch your throwing hand for the next 3 rounds",
@@ -90,9 +89,6 @@
     "name_de": "Schweigen",
     "description_de": "Du darfst die nächsten 2 Runden nicht sprechen"
   },
-
-  /* --- Aditions 07.12.25 --- */
-
   {
     "name": "Slow Motion",
     "description": "Perform your entire next throw in exaggerated slow motion",
